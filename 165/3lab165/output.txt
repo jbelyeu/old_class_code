@@ -1,0 +1,7 @@
+>Seq1
+MNR
+>Seq2
+ERROR
+>Seq3
+MR
+
