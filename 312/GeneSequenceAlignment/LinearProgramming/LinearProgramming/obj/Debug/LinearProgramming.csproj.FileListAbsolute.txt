@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\312HW\GeneSequenceAlignment\LinearProgramming\LinearProgramming\bin\Debug\LinearProgramming.exe.config
+C:\Users\admin\Documents\312HW\GeneSequenceAlignment\LinearProgramming\LinearProgramming\bin\Debug\LinearProgramming.exe
+C:\Users\admin\Documents\312HW\GeneSequenceAlignment\LinearProgramming\LinearProgramming\bin\Debug\LinearProgramming.pdb
+C:\Users\admin\Documents\312HW\GeneSequenceAlignment\LinearProgramming\LinearProgramming\obj\Debug\LinearProgramming.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\312HW\GeneSequenceAlignment\LinearProgramming\LinearProgramming\obj\Debug\LinearProgramming.exe
+C:\Users\admin\Documents\312HW\GeneSequenceAlignment\LinearProgramming\LinearProgramming\obj\Debug\LinearProgramming.pdb

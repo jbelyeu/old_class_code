@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ModularExponentiation\ModularExponentiation\bin\Debug\ModularExponentiation.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ModularExponentiation\ModularExponentiation\bin\Debug\ModularExponentiation.exe
+c:\users\admin\documents\visual studio 2013\Projects\ModularExponentiation\ModularExponentiation\bin\Debug\ModularExponentiation.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ModularExponentiation\ModularExponentiation\obj\Debug\ModularExponentiation.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ModularExponentiation\ModularExponentiation\obj\Debug\ModularExponentiation.exe
+c:\users\admin\documents\visual studio 2013\Projects\ModularExponentiation\ModularExponentiation\obj\Debug\ModularExponentiation.pdb
