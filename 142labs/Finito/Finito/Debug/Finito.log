@@ -1,0 +1,5 @@
+﻿  TestDriver.cpp
+c:\users\chris\desktop\finito\finito\testdriver.cpp(165): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\chris\desktop\finito\finito\testdriver.cpp(15): warning C4715: 'convertStringToBool' : not all control paths return a value
+  LINK : C:\Users\Chris\Desktop\Finito\Debug\Finito.exe not found or not built by the last incremental link; performing full link
+  Finito.vcxproj -> C:\Users\Chris\Desktop\Finito\Debug\Finito.exe

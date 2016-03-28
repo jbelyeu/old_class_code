@@ -1,0 +1,14 @@
+﻿Build started 9/11/2013 5:06:52 PM.
+     1>Project "F:\CS 142 me\BYUtrivia\BYUtrivia\BYUtrivia.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "F:\CS 142 me\BYUtrivia\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\BYUtrivia.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Debug\BYUtrivia.unsuccessfulbuild".
+         Touching "Debug\BYUtrivia.lastbuildstate".
+     1>Done Building Project "F:\CS 142 me\BYUtrivia\BYUtrivia\BYUtrivia.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10

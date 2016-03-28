@@ -1,0 +1,1013 @@
+insert 20 mike
+insert 3 shavonne
+clear
+insert 0 bob
+insert 1 joe
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+find zed
+find bob
+find joe
+find ned
+find sue
+remove 0
+print
+find bob
+remove 1
+print
+find bob
+remove 1
+remove 1
+remove 0
+print
+find zedclear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+find zed
+find bob
+find joe
+find ned
+find sue
+remove 0
+print
+find bob
+remove 1
+print
+find bob
+remove 1
+remove 1
+remove 0
+print
+find zed
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+remove 1
+print
+remove 0
+print
+insert 0 jim
+print
+find joe
+remove 0
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+find zed
+find bob
+find joe
+find ned
+find sue
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+find zed
+find bob
+find joe
+find ned
+find sue
+remove 0
+print
+find bob
+remove 1
+print
+find bob
+remove 1
+remove 1
+remove 0
+print
+find zedclear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+find zed
+find bob
+find joe
+find ned
+find sue
+remove 0
+print
+find bob
+remove 1
+print
+find bob
+remove 1
+remove 1
+remove 0
+print
+find zed
+remove 0
+print
+find bob
+remove 1
+print
+find bob
+remove 1
+remove 1
+remove 0
+print
+find zed
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+insert 1 ned
+insert 3 zed
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+remove 1
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+remove 1
+print
+remove 0
+print
+remove 0
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+print
+find joe
+remove 0
+remove 1
+remove 0
+print
+find joe
+remove 1
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+remove 0
+print
+find joeclear
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+insert 0 bob
+insert 1 joe
+insert 0 jim
+remove 0
+remove 1
+remove 0
+print
+find joe
+remove 1
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+remove 0
+print
+
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+print
+find joe
+remove 0
+remove 1
+remove 0
+print
+clear
+clear
+insert 0 bob
+print
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+insert 0 bob
+insert 1 joe
+insert 0 jim
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+remove 0
+remove 1
+remove 0
+print
+find joe
+remove 1
+clear
+insert 0 bob
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+find zed
+find bob
+find joe
+find ned
+find sue
+remove 0
+print
+find bob
+remove 1
+print
+find bob
+remove 1
+remove 1
+remove 0
+print
+find zed
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+find zed
+find bob
+find joe
+find ned
+find sue
+remove 0
+print
+find bob
+remove 1
+print
+find bob
+remove 1
+remove 1
+remove 0
+print
+find zed
+print
+remove 0
+print
+
+insert 0 jim
+print
+insert 1 ned
+clear
+insert 0 bob
+print
+insert 1 joe
+clear
+insert 0 bob
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+find zed
+find bob
+find joe
+find ned
+find sue
+remove 0
+print
+find bob
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+remove 1
+print
+find bob
+remove 1
+remove 1
+remove 0
+print
+find zed
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+remove 0
+remove 1
+remove 0
+print
+find joe
+remove 1
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+remove 0
+print
+
+print
+find zed
+find bob
+find joe
+find ned
+find sue
+remove 0
+print
+clear
+insert 0 bob
+insert 1 joe
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+find zed
+find bob
+find joe
+find ned
+find sue
+remove 0
+print
+find bob
+remove 1
+print
+find bob
+remove 1
+remove 1
+remove 0
+print
+find zed
+find bob
+remove 1
+print
+find bob
+remove 1
+remove 1
+remove 0
+print
+find zed
+print
+insert 0 jim
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+remove 1
+print
+remove 0
+print
+print
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+insert 1 ned
+print
+insert 3 zed
+print
+print
+insert 3 zed
+clear
+remove 0
+remove 1
+remove 0
+print
+find joe
+remove 1
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+remove 0
+print
+
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+print
+print
+find joe
+remove 0
+remove 1
+remove 0
+print
+find joe
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+print
+find joe
+remove 0
+remove 1
+remove 0
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+remove 1
+print
+remove 0
+print
+find joe
+find joe
+clear
+insert 0 bob
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+remove 0
+remove 1
+remove 0
+print
+find joe
+remove 1
+clear
+insert 0 bob
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+remove 1
+print
+remove 0
+print
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+remove 1
+print
+remove 0
+print
+remove 1
+print
+remove 0
+printclear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+remove 1
+print
+remove 0
+print
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+remove 0
+print
+
+insert 0 jim
+print
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+insert 1 ned
+print
+insert 3 zed
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+find zed
+find bob
+find joe
+find ned
+find sue
+remove 0
+print
+find bob
+remove 1
+print
+find bob
+remove 1
+remove 1
+remove 0
+print
+find zed
+print
+remove 1
+print
+remove 1
+print
+remove 0
+print
+print
+insert 1 joe
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+find zed
+find bob
+find joe
+find ned
+find sue
+remove 0
+print
+find bob
+remove 1
+print
+find bob
+remove 1
+remove 1
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+remove 1
+print
+remove 0
+print
+remove 0
+print
+find zed
+insert 0 jim
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+find zed
+find bob
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+remove 1
+print
+remove 0
+print
+find joe
+find ned
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+find sue
+remove 0
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+print
+find bob
+remove 1
+remove 0
+remove 1
+remove 0
+print
+find joe
+remove 1
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+remove 0
+print
+remove 0
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+remove 0
+remove 1
+remove 0
+print
+find joe
+remove 1
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+print
+insert 3 zed
+print
+remove 0
+print
+
+remove 1
+remove 0
+print
+find joe
+remove 1
+clear
+insert 0 bob
+print
+insert 1 joe
+print
+insert 0 jim
+print
+insert 1 ned
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+remove 1
+print
+remove 0
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+remove 1
+print
+remove 0
+print
+print
+insert 3 zed
+print
+
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+remove 0
+print
+remove 3
+print
+remove 1
+print
+remove 1
+print
+remove 0
+print
+print
+insert 3 zed
+print
+remove 0
+print
+print
+find bob
+remove 1
+remove 1
+remove 0
+print
+find zed
+insert 1 ned
+print
+insert 3 zed
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+print
+find joe
+remove 0
+remove 1
+remove 0
+print
+find joe
+clear
+clear
+clear
+find me

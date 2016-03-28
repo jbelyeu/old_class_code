@@ -1,0 +1,17 @@
+
+
+# try all keywords
+
+Schemes
+Facts
+Rules
+Queries
+
+:'fish fish'
+
+
+Queries:
+   marriedTo ('Bea' , 'Zed')?
+
+Rules:
+   marriedTo( X,Y ) :- marriedTo(Y,X) .

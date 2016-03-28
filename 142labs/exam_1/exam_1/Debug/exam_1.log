@@ -1,0 +1,22 @@
+﻿Build started 10/10/2013 8:34:41 AM.
+     1>Project "F:\CS 142 me\exam_1\exam_1\exam_1.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "F:\CS 142 me\exam_1\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\exam_1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt one_four.cpp
+         one_four.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CS 142 me\exam_1\Debug\exam_1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\exam_1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CS 142 me\exam_1\Debug\exam_1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CS 142 me\exam_1\Debug\exam_1.lib" /MACHINE:X86 Debug\one_four.obj
+         exam_1.vcxproj -> F:\CS 142 me\exam_1\Debug\exam_1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\CS 142 me\exam_1\Debug\exam_1.exe;#1" /manifest Debug\exam_1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\exam_1.unsuccessfulbuild".
+         Touching "Debug\exam_1.lastbuildstate".
+     1>Done Building Project "F:\CS 142 me\exam_1\exam_1\exam_1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.33

@@ -1,0 +1,74 @@
+﻿Build started 4/19/2014 2:32:57 PM.
+     1>Project "F:\142labs\DrawingBoard\DrawingBoard\DrawingBoard.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\DrawingBoard.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(32): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(65): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(104): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(283): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(284): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(297): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(298): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(315): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(316): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(341): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(342): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(354): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(355): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(367): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(368): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(385): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(386): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(397): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(398): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(410): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(411): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(426): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(427): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(435): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(436): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(446): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(447): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(463): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(480): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(500): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(513): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(514): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(536): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(553): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(554): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(572): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(587): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(598): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(599): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(623): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(639): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(650): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(665): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(678): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(679): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(695): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(778): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(790): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(905): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(913): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(1012): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\142labs\drawingboard\drawingboard\main.cpp(1082): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\142labs\DrawingBoard\Debug\DrawingBoard.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DrawingBoard.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\142labs\DrawingBoard\Debug\DrawingBoard.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\142labs\DrawingBoard\Debug\DrawingBoard.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\printScore.obj
+         LINK : F:\142labs\DrawingBoard\Debug\DrawingBoard.exe not found or not built by the last incremental link; performing full link
+         DrawingBoard.vcxproj -> F:\142labs\DrawingBoard\Debug\DrawingBoard.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\142labs\DrawingBoard\Debug\DrawingBoard.exe;#1" /manifest Debug\DrawingBoard.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\DrawingBoard.unsuccessfulbuild".
+         Touching "Debug\DrawingBoard.lastbuildstate".
+     1>Done Building Project "F:\142labs\DrawingBoard\DrawingBoard\DrawingBoard.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.95

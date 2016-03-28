@@ -1,0 +1,1845 @@
+insert 20 mike
+insert 3 shavonne
+clear
+insert 0 bob
+insert 1 joe
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+node 0: bob
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find zed 3
+find bob 0
+find joe 4
+find ned 1
+find sue -1
+remove 0 bob
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+find bob 1
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+node 2: joe
+find bob -1
+remove 1 zed
+remove 1 joe
+remove 0 ned
+print
+find zedclear -1
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+node 0: bob
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find zed 3
+find bob 0
+find joe 4
+find ned 1
+find sue -1
+remove 0 bob
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+find bob 1
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+node 2: joe
+find bob -1
+remove 1 zed
+remove 1 joe
+remove 0 ned
+print
+find zed -1
+insert 1 ned
+insert 3 zed
+print
+remove 0 
+print
+remove 3 
+print
+remove 1 
+print
+remove 1 
+print
+remove 0 
+print
+insert 0 jim
+print
+node 0: jim
+find joe -1
+remove 0 jim
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+node 0: bob
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find zed 3
+find bob 0
+find joe 4
+find ned 1
+find sue -1
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+node 0: bob
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find zed 3
+find bob 0
+find joe 4
+find ned 1
+find sue -1
+remove 0 bob
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+find bob 1
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+node 2: joe
+find bob -1
+remove 1 zed
+remove 1 joe
+remove 0 ned
+print
+find zedclear -1
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+node 0: bob
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find zed 3
+find bob 0
+find joe 4
+find ned 1
+find sue -1
+remove 0 bob
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+find bob 1
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+node 2: joe
+find bob -1
+remove 1 zed
+remove 1 joe
+remove 0 ned
+print
+find zed -1
+remove 0 
+print
+find bob -1
+remove 1 
+print
+find bob -1
+remove 1 
+remove 1 
+remove 0 
+print
+find zed -1
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+insert 1 ned
+insert 3 zed
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 3 joe
+print
+node 0: ned
+node 1: bob
+node 2: zed
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+remove 1 zed
+print
+node 0: ned
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 3 joe
+print
+node 0: ned
+node 1: bob
+node 2: zed
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+remove 1 zed
+print
+node 0: ned
+remove 0 ned
+print
+remove 0 
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+find joe 2
+remove 0 jim
+remove 1 joe
+remove 0 bob
+print
+find joe -1
+remove 1 
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+find joeclear -1
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+insert 0 bob
+insert 1 joe
+insert 0 jim
+remove 0 jim
+remove 1 joe
+remove 0 bob
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find joe 4
+remove 1 ned
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find joe 4
+remove 0 jim
+remove 1 bob
+remove 0 ned
+print
+node 0: zed
+node 1: joe
+clear
+clear
+insert 0 bob
+print
+node 0: bob
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+insert 1 joe
+print
+node 0: jim
+node 1: joe
+node 2: ned
+node 3: bob
+node 4: zed
+node 5: joe
+insert 0 jim
+print
+node 0: jim
+node 1: jim
+node 2: joe
+node 3: ned
+node 4: bob
+node 5: zed
+node 6: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: jim
+node 3: joe
+node 4: ned
+node 5: bob
+node 6: zed
+node 7: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: jim
+node 3: zed
+node 4: joe
+node 5: ned
+node 6: bob
+node 7: zed
+node 8: joe
+insert 0 bob
+insert 1 joe
+insert 0 jim
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+remove 0 bob
+remove 1 
+remove 0 joe
+print
+find joe -1
+remove 1 
+clear
+insert 0 bob
+print
+node 0: bob
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+node 0: bob
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find zed 3
+find bob 0
+find joe 4
+find ned 1
+find sue -1
+remove 0 bob
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+find bob 1
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+node 2: joe
+find bob -1
+remove 1 zed
+remove 1 joe
+remove 0 ned
+print
+find zed -1
+insert 1 joe
+print
+insert 0 jim
+print
+node 0: jim
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+insert 3 zed
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+node 0: bob
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find zed 3
+find bob 0
+find joe 4
+find ned 1
+find sue -1
+remove 0 bob
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+find bob 1
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+node 2: joe
+find bob -1
+remove 1 zed
+remove 1 joe
+remove 0 ned
+print
+find zed -1
+print
+remove 0 
+print
+insert 0 jim
+print
+node 0: jim
+insert 1 ned
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+clear
+insert 0 bob
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+node 0: bob
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find zed 3
+find bob 0
+find joe 4
+find ned 1
+find sue -1
+remove 0 bob
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+find bob 1
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 1 ned
+print
+node 0: jim
+node 1: bob
+node 2: zed
+node 3: joe
+find bob 1
+remove 1 bob
+remove 1 zed
+remove 0 jim
+print
+node 0: joe
+find zed -1
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+remove 0 bob
+remove 1 joe
+remove 0 ned
+print
+node 0: zed
+node 1: joe
+find joe 1
+remove 1 joe
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+find zed 2
+find bob 1
+find joe 3
+find ned 0
+find sue -1
+remove 0 ned
+print
+node 0: bob
+node 1: zed
+node 2: joe
+clear
+insert 0 bob
+insert 1 joe
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+node 0: bob
+node 1: ned
+node 2: jim
+node 3: zed
+node 4: ned
+node 5: bob
+node 6: zed
+node 7: joe
+find zed 3
+find bob 0
+find joe 7
+find ned 1
+find sue -1
+remove 0 bob
+print
+node 0: ned
+node 1: jim
+node 2: zed
+node 3: ned
+node 4: bob
+node 5: zed
+node 6: joe
+find bob 4
+remove 1 jim
+print
+node 0: ned
+node 1: zed
+node 2: ned
+node 3: bob
+node 4: zed
+node 5: joe
+find bob 3
+remove 1 zed
+remove 1 ned
+remove 0 ned
+print
+node 0: bob
+node 1: zed
+node 2: joe
+find zed 1
+find bob 0
+remove 1 zed
+print
+node 0: bob
+node 1: joe
+find bob 0
+remove 1 joe
+remove 1 
+remove 0 bob
+print
+find zed -1
+print
+insert 0 jim
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 3 joe
+print
+node 0: ned
+node 1: bob
+node 2: zed
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+remove 1 zed
+print
+node 0: ned
+remove 0 ned
+print
+print
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: ned
+node 3: bob
+node 4: zed
+node 5: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: ned
+node 3: zed
+node 4: bob
+node 5: zed
+node 6: joe
+print
+node 0: jim
+node 1: ned
+node 2: ned
+node 3: zed
+node 4: bob
+node 5: zed
+node 6: joe
+insert 3 zed
+clear
+remove 0 
+remove 1 
+remove 0 
+print
+find joe -1
+remove 1 
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+insert 0 bob
+print
+node 0: bob
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+node 2: ned
+node 3: bob
+node 4: zed
+node 5: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+node 3: ned
+node 4: bob
+node 5: zed
+node 6: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+node 4: ned
+node 5: bob
+node 6: zed
+node 7: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+node 5: ned
+node 6: bob
+node 7: zed
+node 8: joe
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+node 5: ned
+node 6: bob
+node 7: zed
+node 8: joe
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+node 5: ned
+node 6: bob
+node 7: zed
+node 8: joe
+find joe 4
+remove 0 jim
+remove 1 bob
+remove 0 ned
+print
+node 0: zed
+node 1: joe
+node 2: ned
+node 3: bob
+node 4: zed
+node 5: joe
+find joe 1
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+find joe 2
+remove 0 jim
+remove 1 joe
+remove 0 bob
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 3 joe
+print
+node 0: ned
+node 1: bob
+node 2: zed
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+remove 1 zed
+print
+node 0: ned
+remove 0 ned
+print
+find joe -1
+find joe -1
+clear
+insert 0 bob
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+remove 0 bob
+remove 1 
+remove 0 joe
+print
+find joe -1
+remove 1 
+clear
+insert 0 bob
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 3 joe
+print
+node 0: ned
+node 1: bob
+node 2: zed
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 3 joe
+print
+node 0: ned
+node 1: bob
+node 2: zed
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+remove 1 zed
+print
+node 0: ned
+remove 0 ned
+print
+insert 1 ned
+insert 3 zed
+print
+remove 0 
+print
+remove 3 
+print
+remove 1 
+print
+remove 1 
+print
+remove 0 
+print
+remove 1 
+print
+remove 0 
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 3 joe
+print
+node 0: ned
+node 1: bob
+node 2: zed
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+remove 1 zed
+print
+node 0: ned
+remove 0 ned
+print
+print
+insert 1 joe
+print
+insert 0 jim
+print
+node 0: jim
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+remove 0 jim
+print
+node 0: ned
+insert 0 jim
+print
+node 0: jim
+node 1: ned
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: ned
+node 3: bob
+node 4: zed
+node 5: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: ned
+node 3: zed
+node 4: bob
+node 5: zed
+node 6: joe
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 3 joe
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+node 0: bob
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find zed 3
+find bob 0
+find joe 4
+find ned 1
+find sue -1
+remove 0 bob
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+find bob 1
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+node 2: joe
+find bob -1
+remove 1 zed
+remove 1 joe
+remove 0 ned
+print
+find zed -1
+print
+remove 1 
+print
+remove 1 
+print
+remove 0 
+print
+print
+insert 1 joe
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+node 0: bob
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find zed 3
+find bob 0
+find joe 4
+find ned 1
+find sue -1
+remove 0 bob
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+find bob 1
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+node 2: joe
+find bob -1
+remove 1 zed
+remove 1 joe
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 3 joe
+print
+node 0: ned
+node 1: bob
+node 2: zed
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+remove 1 zed
+print
+node 0: ned
+remove 0 ned
+print
+remove 0 
+print
+find zed -1
+insert 0 jim
+print
+node 0: jim
+clear
+insert 0 bob
+insert 1 joe
+insert 0 bob
+insert 1 ned
+insert 3 zed
+print
+node 0: bob
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find zed 3
+find bob 0
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 3 joe
+print
+node 0: ned
+node 1: bob
+node 2: zed
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+remove 1 zed
+print
+node 0: ned
+remove 0 ned
+print
+find joe -1
+find ned -1
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find sue -1
+remove 0 jim
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+find bob 2
+remove 1 ned
+remove 0 jim
+remove 1 zed
+remove 0 bob
+print
+node 0: joe
+find joe 0
+remove 1 
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 0 ned
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+remove 1 bob
+remove 0 ned
+print
+node 0: zed
+node 1: joe
+find joe 1
+remove 1 joe
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: joe
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 1 bob
+remove 0 ned
+print
+node 0: zed
+node 1: joe
+find joe 1
+remove 1 joe
+clear
+insert 0 bob
+print
+node 0: bob
+insert 1 joe
+print
+node 0: bob
+node 1: joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+insert 1 ned
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 3 joe
+print
+node 0: ned
+node 1: bob
+node 2: zed
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+remove 1 zed
+print
+node 0: ned
+remove 0 ned
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+node 2: bob
+node 3: zed
+node 4: joe
+remove 0 jim
+print
+node 0: ned
+node 1: bob
+node 2: zed
+node 3: joe
+remove 3 joe
+print
+node 0: ned
+node 1: bob
+node 2: zed
+remove 1 bob
+print
+node 0: ned
+node 1: zed
+remove 1 zed
+print
+node 0: ned
+remove 0 ned
+print
+print
+insert 3 zed
+print
+insert 1 joe
+insert 0 jim
+insert 1 ned
+insert 3 zed
+print
+node 0: jim
+node 1: ned
+remove 0 jim
+print
+node 0: ned
+remove 3 
+print
+node 0: ned
+remove 1 
+print
+node 0: ned
+remove 1 
+print
+node 0: ned
+remove 0 ned
+print
+print
+insert 3 zed
+print
+remove 0 
+print
+print
+find bob -1
+remove 1 
+remove 1 
+remove 0 
+print
+find zed -1
+insert 1 ned
+print
+insert 3 zed
+print
+clear
+insert 0 bob
+insert 1 joe
+insert 0 jim
+print
+node 0: jim
+node 1: bob
+node 2: joe
+find joe 2
+remove 0 jim
+remove 1 joe
+remove 0 bob
+print
+find joe -1
+clear
+clear
+clear
+find me -1

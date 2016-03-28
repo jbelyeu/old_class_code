@@ -1,0 +1,7 @@
+﻿'Plinko.exe': Loaded 'F:\CS 142 me\Plinko\Debug\Plinko.exe', Symbols loaded.
+'Plinko.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Plinko.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Plinko.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Plinko.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'Plinko.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+The program '[3004] Plinko.exe: Native' has exited with code 0 (0x0).
