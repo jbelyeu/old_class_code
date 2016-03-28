@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\FermatPrimality\FermatPrimality\bin\Debug\FermatPrimality.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\FermatPrimality\FermatPrimality\obj\Debug\FermatPrimality.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\FermatPrimality\FermatPrimality\obj\Debug\FermatPrimality.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\FermatPrimality\FermatPrimality\obj\Debug\FermatPrimality.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\FermatPrimality\FermatPrimality\obj\Debug\FermatPrimality.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\FermatPrimality\FermatPrimality\bin\Debug\FermatPrimality.exe
+c:\users\admin\documents\visual studio 2013\Projects\FermatPrimality\FermatPrimality\bin\Debug\FermatPrimality.pdb
+c:\users\admin\documents\visual studio 2013\Projects\FermatPrimality\FermatPrimality\obj\Debug\FermatPrimality.exe
+c:\users\admin\documents\visual studio 2013\Projects\FermatPrimality\FermatPrimality\obj\Debug\FermatPrimality.pdb
