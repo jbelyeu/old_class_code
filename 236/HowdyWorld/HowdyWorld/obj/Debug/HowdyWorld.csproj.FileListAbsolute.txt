@@ -1,6 +1,0 @@
-c:\users\admin\documents\visual studio 2013\Projects\HowdyWorld\HowdyWorld\bin\Debug\HowdyWorld.exe.config
-c:\users\admin\documents\visual studio 2013\Projects\HowdyWorld\HowdyWorld\obj\Debug\HowdyWorld.csprojResolveAssemblyReference.cache
-c:\users\admin\documents\visual studio 2013\Projects\HowdyWorld\HowdyWorld\bin\Debug\HowdyWorld.exe
-c:\users\admin\documents\visual studio 2013\Projects\HowdyWorld\HowdyWorld\bin\Debug\HowdyWorld.pdb
-c:\users\admin\documents\visual studio 2013\Projects\HowdyWorld\HowdyWorld\obj\Debug\HowdyWorld.exe
-c:\users\admin\documents\visual studio 2013\Projects\HowdyWorld\HowdyWorld\obj\Debug\HowdyWorld.pdb

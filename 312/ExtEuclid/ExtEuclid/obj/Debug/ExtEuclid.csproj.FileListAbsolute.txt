@@ -1,6 +1,0 @@
-C:\Users\admin\Documents\312HW\ExtEuclid\ExtEuclid\bin\Debug\ExtEuclid.exe.config
-C:\Users\admin\Documents\312HW\ExtEuclid\ExtEuclid\bin\Debug\ExtEuclid.exe
-C:\Users\admin\Documents\312HW\ExtEuclid\ExtEuclid\bin\Debug\ExtEuclid.pdb
-C:\Users\admin\Documents\312HW\ExtEuclid\ExtEuclid\obj\Debug\ExtEuclid.csprojResolveAssemblyReference.cache
-C:\Users\admin\Documents\312HW\ExtEuclid\ExtEuclid\obj\Debug\ExtEuclid.exe
-C:\Users\admin\Documents\312HW\ExtEuclid\ExtEuclid\obj\Debug\ExtEuclid.pdb
