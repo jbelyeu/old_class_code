@@ -1,8 +1,0 @@
-C:\Users\admin\Documents\312HW\GeneSequenceAlignment\SeqAligner\SeqAligner\bin\Debug\SeqAligner.exe.config
-C:\Users\admin\Documents\312HW\GeneSequenceAlignment\SeqAligner\SeqAligner\bin\Debug\SeqAligner.exe
-C:\Users\admin\Documents\312HW\GeneSequenceAlignment\SeqAligner\SeqAligner\bin\Debug\SeqAligner.pdb
-C:\Users\admin\Documents\312HW\GeneSequenceAlignment\SeqAligner\SeqAligner\obj\Debug\SeqAligner.csprojResolveAssemblyReference.cache
-C:\Users\admin\Documents\312HW\GeneSequenceAlignment\SeqAligner\SeqAligner\obj\Debug\SeqAligner.Properties.Resources.resources
-C:\Users\admin\Documents\312HW\GeneSequenceAlignment\SeqAligner\SeqAligner\obj\Debug\SeqAligner.csproj.GenerateResource.Cache
-C:\Users\admin\Documents\312HW\GeneSequenceAlignment\SeqAligner\SeqAligner\obj\Debug\SeqAligner.exe
-C:\Users\admin\Documents\312HW\GeneSequenceAlignment\SeqAligner\SeqAligner\obj\Debug\SeqAligner.pdb
