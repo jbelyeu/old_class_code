@@ -1,0 +1,84 @@
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking janice.cs.byu.edu (be patient).....done
+
+
+Server Software:        
+Server Hostname:        janice.cs.byu.edu
+Server Port:            3060
+
+Document Path:          /large.html
+Document Length:        54305488 bytes
+
+Concurrency Level:      20
+Time taken for tests:   46.541 seconds
+Complete requests:      100
+Failed requests:        0
+Total transferred:      5430555800 bytes
+HTML transferred:       5430548800 bytes
+Requests per second:    2.15 [#/sec] (mean)
+Time per request:       9308.236 [ms] (mean)
+Time per request:       465.412 [ms] (mean, across all concurrent requests)
+Transfer rate:          113948.06 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    5   2.5      6       9
+Processing:  2313 8601 1820.5   9295    9433
+Waiting:        1 6236 1817.2   6927    7049
+Total:       2313 8606 1822.4   9303    9438
+
+Percentage of the requests served within a certain time (ms)
+  50%   9303
+  66%   9333
+  75%   9351
+  80%   9359
+  90%   9394
+  95%   9408
+  98%   9428
+  99%   9438
+ 100%   9438 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking janice.cs.byu.edu (be patient).....done
+
+
+Server Software:        
+Server Hostname:        janice.cs.byu.edu
+Server Port:            3060
+
+Document Path:          /large.html
+Document Length:        54305488 bytes
+
+Concurrency Level:      20
+Time taken for tests:   46.496 seconds
+Complete requests:      100
+Failed requests:        0
+Total transferred:      5430555800 bytes
+HTML transferred:       5430548800 bytes
+Requests per second:    2.15 [#/sec] (mean)
+Time per request:       9299.216 [ms] (mean)
+Time per request:       464.961 [ms] (mean, across all concurrent requests)
+Transfer rate:          114058.59 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   55 219.4      6    1007
+Processing:  2188 8539 1810.5   9255    9465
+Waiting:        0 6176 1807.3   6891    7080
+Total:       2188 8594 1819.0   9278    9520
+
+Percentage of the requests served within a certain time (ms)
+  50%   9278
+  66%   9312
+  75%   9332
+  80%   9342
+  90%   9392
+  95%   9457
+  98%   9471
+  99%   9520
+ 100%   9520 (longest request)

@@ -1,0 +1,243 @@
+Document Path:          /large.html
+Concurrency Level:      10
+Time taken for tests:   46.495 seconds
+Failed requests:        0
+Requests per second:    2.15 [#/sec] (mean)
+Time per request:       4649.547 [ms] (mean)
+Time per request:       464.955 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /medium.html
+Concurrency Level:      10
+Time taken for tests:   1.303 seconds
+Failed requests:        0
+Requests per second:    76.74 [#/sec] (mean)
+Time per request:       130.302 [ms] (mean)
+Time per request:       13.030 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /small.html
+Concurrency Level:      10
+Time taken for tests:   0.016 seconds
+Failed requests:        0
+Requests per second:    6130.83 [#/sec] (mean)
+Time per request:       1.631 [ms] (mean)
+Time per request:       0.163 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /large.html
+Concurrency Level:      1
+Time taken for tests:   46.954 seconds
+Failed requests:        0
+Requests per second:    2.13 [#/sec] (mean)
+Time per request:       469.541 [ms] (mean)
+Time per request:       469.541 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /medium.html
+Concurrency Level:      1
+Time taken for tests:   1.711 seconds
+Failed requests:        0
+Requests per second:    58.46 [#/sec] (mean)
+Time per request:       17.106 [ms] (mean)
+Time per request:       17.106 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /small.html
+Concurrency Level:      1
+Time taken for tests:   0.118 seconds
+Failed requests:        0
+Requests per second:    848.43 [#/sec] (mean)
+Time per request:       1.179 [ms] (mean)
+Time per request:       1.179 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /large.html
+Concurrency Level:      20
+Time taken for tests:   46.617 seconds
+Failed requests:        0
+Requests per second:    2.15 [#/sec] (mean)
+Time per request:       9323.370 [ms] (mean)
+Time per request:       466.168 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /medium.html
+Concurrency Level:      20
+Time taken for tests:   1.303 seconds
+Failed requests:        0
+Requests per second:    76.76 [#/sec] (mean)
+Time per request:       260.546 [ms] (mean)
+Time per request:       13.027 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /small.html
+Concurrency Level:      20
+Time taken for tests:   0.012 seconds
+Failed requests:        0
+Requests per second:    8063.22 [#/sec] (mean)
+Time per request:       2.480 [ms] (mean)
+Time per request:       0.124 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /large.html
+Concurrency Level:      1
+Time taken for tests:   46.903 seconds
+Failed requests:        0
+Requests per second:    2.13 [#/sec] (mean)
+Time per request:       469.032 [ms] (mean)
+Time per request:       469.032 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /large.html
+Concurrency Level:      10
+Time taken for tests:   46.504 seconds
+Failed requests:        0
+Requests per second:    2.15 [#/sec] (mean)
+Time per request:       4650.415 [ms] (mean)
+Time per request:       465.041 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /large.html
+Concurrency Level:      20
+Time taken for tests:   46.511 seconds
+Failed requests:        0
+Requests per second:    2.15 [#/sec] (mean)
+Time per request:       9302.213 [ms] (mean)
+Time per request:       465.111 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /medium.html
+Concurrency Level:      1
+Time taken for tests:   1.597 seconds
+Failed requests:        0
+Requests per second:    62.63 [#/sec] (mean)
+Time per request:       15.967 [ms] (mean)
+Time per request:       15.967 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /medium.html
+Concurrency Level:      10
+Time taken for tests:   1.301 seconds
+Failed requests:        0
+Requests per second:    76.87 [#/sec] (mean)
+Time per request:       130.092 [ms] (mean)
+Time per request:       13.009 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /medium.html
+Concurrency Level:      20
+Time taken for tests:   1.301 seconds
+Failed requests:        0
+Requests per second:    76.89 [#/sec] (mean)
+Time per request:       260.126 [ms] (mean)
+Time per request:       13.006 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /small.html
+Concurrency Level:      1
+Time taken for tests:   0.069 seconds
+Failed requests:        0
+Requests per second:    1455.56 [#/sec] (mean)
+Time per request:       0.687 [ms] (mean)
+Time per request:       0.687 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /small.html
+Concurrency Level:      10
+Time taken for tests:   0.015 seconds
+Failed requests:        0
+Requests per second:    6595.44 [#/sec] (mean)
+Time per request:       1.516 [ms] (mean)
+Time per request:       0.152 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /small.html
+Concurrency Level:      20
+Time taken for tests:   0.013 seconds
+Failed requests:        0
+Requests per second:    7875.26 [#/sec] (mean)
+Time per request:       2.540 [ms] (mean)
+Time per request:       0.127 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /large.html
+Concurrency Level:      1
+Time taken for tests:   46.939 seconds
+Failed requests:        0
+Requests per second:    2.13 [#/sec] (mean)
+Time per request:       469.387 [ms] (mean)
+Time per request:       469.387 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /large.html
+Concurrency Level:      10
+Time taken for tests:   46.508 seconds
+Failed requests:        0
+Requests per second:    2.15 [#/sec] (mean)
+Time per request:       4650.836 [ms] (mean)
+Time per request:       465.084 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /large.html
+Concurrency Level:      20
+Time taken for tests:   46.505 seconds
+Failed requests:        0
+Requests per second:    2.15 [#/sec] (mean)
+Time per request:       9301.024 [ms] (mean)
+Time per request:       465.051 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /medium.html
+Concurrency Level:      1
+Time taken for tests:   1.653 seconds
+Failed requests:        0
+Requests per second:    60.51 [#/sec] (mean)
+Time per request:       16.527 [ms] (mean)
+Time per request:       16.527 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /medium.html
+Concurrency Level:      10
+Time taken for tests:   1.304 seconds
+Failed requests:        0
+Requests per second:    76.68 [#/sec] (mean)
+Time per request:       130.412 [ms] (mean)
+Time per request:       13.041 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /medium.html
+Concurrency Level:      20
+Time taken for tests:   1.301 seconds
+Failed requests:        0
+Requests per second:    76.87 [#/sec] (mean)
+Time per request:       260.165 [ms] (mean)
+Time per request:       13.008 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /small.html
+Concurrency Level:      10
+Time taken for tests:   0.015 seconds
+Failed requests:        0
+Requests per second:    6712.31 [#/sec] (mean)
+Time per request:       1.490 [ms] (mean)
+Time per request:       0.149 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /small.html
+Concurrency Level:      20
+Time taken for tests:   0.014 seconds
+Failed requests:        0
+Requests per second:    7133.18 [#/sec] (mean)
+Time per request:       2.804 [ms] (mean)
+Time per request:       0.140 [ms] (mean, across all concurrent requests)
+
+
+Document Path:          /small.html
+Concurrency Level:      1
+Time taken for tests:   0.079 seconds
+Failed requests:        0
+Requests per second:    1268.73 [#/sec] (mean)
+Time per request:       0.788 [ms] (mean)
+Time per request:       0.788 [ms] (mean, across all concurrent requests)
+
+

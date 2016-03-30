@@ -1,0 +1,46 @@
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking janice.cs.byu.edu (be patient).....done
+
+
+Server Software:        Apache/2.2.11
+Server Hostname:        janice.cs.byu.edu
+Server Port:            3060
+
+Document Path:          /small.html
+Document Length:        6348 bytes
+
+Concurrency Level:      20
+Time taken for tests:   0.014 seconds
+Complete requests:      100
+Failed requests:        0
+Total transferred:      663300 bytes
+HTML transferred:       634800 bytes
+Requests per second:    7133.18 [#/sec] (mean)
+Time per request:       2.804 [ms] (mean)
+Time per request:       0.140 [ms] (mean, across all concurrent requests)
+Transfer rate:          46205.43 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    1   0.2      0       1
+Processing:     1    2   0.5      2       4
+Waiting:        1    2   0.5      2       3
+Total:          2    3   0.5      2       4
+ERROR: The median and mean for the initial connection time are more than twice the standard
+       deviation apart. These results are NOT reliable.
+ERROR: The median and mean for the total time are more than twice the standard
+       deviation apart. These results are NOT reliable.
+
+Percentage of the requests served within a certain time (ms)
+  50%      2
+  66%      3
+  75%      3
+  80%      3
+  90%      3
+  95%      4
+  98%      4
+  99%      4
+ 100%      4 (longest request)

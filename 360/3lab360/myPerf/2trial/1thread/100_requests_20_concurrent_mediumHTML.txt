@@ -1,0 +1,42 @@
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking janice.cs.byu.edu (be patient).....done
+
+
+Server Software:        
+Server Hostname:        janice.cs.byu.edu
+Server Port:            3060
+
+Document Path:          /medium.html
+Document Length:        1517079 bytes
+
+Concurrency Level:      20
+Time taken for tests:   1.781 seconds
+Complete requests:      100
+Failed requests:        0
+Total transferred:      151714800 bytes
+HTML transferred:       151707900 bytes
+Requests per second:    56.14 [#/sec] (mean)
+Time per request:       356.247 [ms] (mean)
+Time per request:       17.812 [ms] (mean, across all concurrent requests)
+Transfer rate:          83177.58 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   10 100.2      0    1003
+Processing:    21  312  84.4    340     520
+Waiting:        0  291  84.2    318     500
+Total:         22  322 133.7    340    1350
+
+Percentage of the requests served within a certain time (ms)
+  50%    340
+  66%    344
+  75%    360
+  80%    364
+  90%    366
+  95%    368
+  98%    521
+  99%   1350
+ 100%   1350 (longest request)

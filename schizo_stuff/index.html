@@ -1,0 +1,33 @@
+<head>
+<script src="jquery-1.12.2.min.js"></script>
+</head>
+
+<header><h1> Jon Belyeu</h1></header1>
+		<h2> Site Index:</h2>
+
+	<p> Project 1 Information </p>
+	<ul>
+		 <li> <a href="/~jbelyeu/Project1Plan/createDB.sql"> Database Schema</a></li>
+		<li> <a href="/~jbelyeu/Project1Plan/doc/" > Record Indexer Documentation</a></li>
+		<li> <a href="/~jbelyeu/justListenToMe.html"> Highly Pertinent Information </a> </li>
+		<li> <a href="/~jbelyeu/Curriculum_Vitae.pdf"> Jon Belyeu CV </a> </li>
+		<li> <a href="/~jbelyeu/resume_1.pdf"> Jon Belyeu Resume </a> </li>
+		<li> <a href="/~jbelyeu/SeismicGrouper/"> Seismic Grouper Documentation </a> </li>
+	</ul>
+	<button id=fish>Text</button>
+	<script>
+		$(document).ready(function() 
+		{
+			$("#fish").click(function() {
+				$.post("server.php", 
+				{
+					data: "Fish"
+				},
+				function (data, status) {
+					alert(data);
+				});
+
+			});
+		});
+	</script>
+

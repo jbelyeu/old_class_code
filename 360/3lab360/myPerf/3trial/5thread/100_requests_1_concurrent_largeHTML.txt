@@ -1,0 +1,88 @@
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking janice.cs.byu.edu (be patient).....done
+
+
+Server Software:        
+Server Hostname:        janice.cs.byu.edu
+Server Port:            3060
+
+Document Path:          /large.html
+Document Length:        54305488 bytes
+
+Concurrency Level:      1
+Time taken for tests:   46.836 seconds
+Complete requests:      100
+Failed requests:        0
+Total transferred:      5430555800 bytes
+HTML transferred:       5430548800 bytes
+Requests per second:    2.14 [#/sec] (mean)
+Time per request:       468.362 [ms] (mean)
+Time per request:       468.362 [ms] (mean, across all concurrent requests)
+Transfer rate:          113230.34 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.2      0       1
+Processing:   466  468   4.1    466     490
+Waiting:        0    1   0.1      0       1
+Total:        466  468   4.1    467     490
+ERROR: The median and mean for the waiting time are more than twice the standard
+       deviation apart. These results are NOT reliable.
+
+Percentage of the requests served within a certain time (ms)
+  50%    467
+  66%    467
+  75%    468
+  80%    469
+  90%    474
+  95%    476
+  98%    484
+  99%    490
+ 100%    490 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking janice.cs.byu.edu (be patient).....done
+
+
+Server Software:        
+Server Hostname:        janice.cs.byu.edu
+Server Port:            3060
+
+Document Path:          /large.html
+Document Length:        54305488 bytes
+
+Concurrency Level:      1
+Time taken for tests:   46.754 seconds
+Complete requests:      100
+Failed requests:        0
+Total transferred:      5430555800 bytes
+HTML transferred:       5430548800 bytes
+Requests per second:    2.14 [#/sec] (mean)
+Time per request:       467.544 [ms] (mean)
+Time per request:       467.544 [ms] (mean, across all concurrent requests)
+Transfer rate:          113428.49 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.2      1       1
+Processing:   466  467   1.9    466     473
+Waiting:        0    1   0.2      1       2
+Total:        466  468   1.9    467     474
+ERROR: The median and mean for the initial connection time are more than twice the standard
+       deviation apart. These results are NOT reliable.
+
+Percentage of the requests served within a certain time (ms)
+  50%    467
+  66%    467
+  75%    468
+  80%    468
+  90%    471
+  95%    472
+  98%    473
+  99%    474
+ 100%    474 (longest request)

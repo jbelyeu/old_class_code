@@ -1,0 +1,31 @@
+
+<html>
+<head>
+<title> npm tutorial - revised </title>
+</head>
+<body>
+<h1> How to check a project into npm</h1>
+<ol>
+<li>Most of this tutorial comes from the book starting on page 49 (Chapter 3, Listing 3.1)
+<li> Change your directory so that you are in the folder with the files for censorify
+<li> Create an account at <a href="https://www.npmjs.com/signup">npmjs</a>
+<li> run adduser on the command line and enter the account information from npmjs.com
+<pre>
+npm adduser
+</pre>
+<li> Create a package.json file (help <a href="http://proquest.safaribooksonline.com/book/programming/javascript/9780133844351/working-with-nodedotjs-packages/
+ch03lev2sec6_html#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODAxMzM4NDQzNTElMkZjaDAzbGV2MnNlYzExX2h0bWwmcXVlcnk9">here
+</a>
+
+) file to include the repository information from github with the fields he included in the example (except "dependencies")
+<li> Change the "name" to something sensible (capital letters not allowed).
+<li> Add a "repository" field (follow the pattern from Table 3.2 on that same page)
+<li> run "npm pack" on the command line to create a zip file 
+<li> run "npm publish" to publish at npmjs.com
+<li> You can find lots of <a href="https://docs.npmjs.com/">documentation</a> for npm including information on how to update your project.
+<li> If you screw up, you can unpublish the project, update the version number and publish it again.
+<li> Now create a new directory in your home directory called test.  cd into that directory and type "npm install [npm name]".  This should install your code in the new directory.
+</ol>
+</body>
+</html>
+
