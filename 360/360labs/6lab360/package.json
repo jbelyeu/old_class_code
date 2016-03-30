@@ -1,0 +1,10 @@
+{
+	"name": "server_module",
+	"version": "0.1.0",
+	"description": "a simple node.js server",
+	"repository": 
+	{
+		"type": "git",
+		"location": "https://github.com/jbelyeu/lab6"
+	}
+}
